@@ -1,0 +1,2 @@
+node_modules/
+#cypress.env.json (never push this)

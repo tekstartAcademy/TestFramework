@@ -1,0 +1,10 @@
+{
+  "incorrectUserOne": {
+    "email": "hello@cypress.io",
+    "password": "password"
+  },
+  "incorrectUserTwo": {
+    "email": "fail@cypress.io",
+    "password": "badPassword"
+  }
+}

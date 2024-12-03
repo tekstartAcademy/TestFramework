@@ -1,0 +1,16 @@
+{
+  "name": "testframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open-cypress": "npx cypress open",
+    "test": "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.9.0",
+    "pdf-parse": "^1.1.1"
+  }
+}

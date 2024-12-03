@@ -1,0 +1,11 @@
+{
+  "postTextArea": "[name='post']",
+  "createPostButton": "#submitPost",
+  "createdPost": "#newPost",
+  "deletePostButton": "#delete",
+  "confirmDeletePostButton": "#confirmDeleteRef",
+  "removeProfilePhotoButton": "#removeRef",
+  "profileImage": "#profileImg",
+  "inputProfileImage": "#image",
+  "saveProfileImageButton": "#updateRef"
+}
